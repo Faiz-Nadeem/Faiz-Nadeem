@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiz Nadeem</h1>
 <h3 align="center">Graphic Sorcerer</h3>
-<img align="right" alt="Designer" width="400" src="https://i.pinimg.com/originals/4d/c5/9d/4dc59d9d0ee8fbebe10118aec5b16d50.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiz-nadeem" alt="faiz-nadeem" /></a> </p>
 
