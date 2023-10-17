@@ -2,8 +2,6 @@
 <h3 align="center">Graphic Sorcerer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiz-nadeem" alt="faiz-nadeem" /></a> </p>
-
 - 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Machine learning**
