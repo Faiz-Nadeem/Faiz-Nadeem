@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Faiz-Nadeem](https://github.com/Faiz-Nadeem)
-
 - 📫 How to reach me **engrfaiznadeem@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/faiz-nadeem-337a5b1b7/](https://www.linkedin.com/in/faiz-nadeem-337a5b1b7/)
