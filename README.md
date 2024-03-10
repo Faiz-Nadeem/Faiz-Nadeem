@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Deep learning**
 
 - 📫 How to reach me **engrfaiznadeem@gmail.com**
 
