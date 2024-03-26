@@ -43,7 +43,5 @@
  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 </a>
-<a href="https://www.getleonardo.com" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/officel/16/000000/leonardo-da-vinci.png" alt="leonardo" width="40" height="40"/>
-</a>
+[Leonardo](https://www.getleonardo.com)
 </p>
