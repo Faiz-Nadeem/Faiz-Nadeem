@@ -40,7 +40,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
-  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
-    <img src="https://about.canva.com/wp-content/uploads/sites/3/2016/08/Canva-logotype_black.png" alt="canva" width="40" height="40"/>
-  </a>
+ <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+</a>
 </p>
