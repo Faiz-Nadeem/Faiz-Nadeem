@@ -43,5 +43,5 @@
  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 </a>
-[Leonardo](https://www.getleonardo.com)
+[![Leonardo](https://img.shields.io/badge/Leonardo-%23FFA500.svg?style=for-the-badge&logo=leonardo&logoColor=white)](https://www.getleonardo.com)
 </p>
