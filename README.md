@@ -50,7 +50,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="https://brandfetch.com/spline.design?library=default&collection=logos&asset=idpEx9OuCE&view=library" target="_blank" rel="noreferrer"> 
+  <a href="https://cdn.brandfetch.io/idZ_aiFAYa/w/128/h/128/theme/dark/logo.png?k=bfHSJFAPEG" target="_blank" rel="noreferrer"> 
     <img src="URL_OF_YOUR_UPLOADED_SPLINE_LOGO" alt="spline" width="40" height="40"/> 
   </a>
 </p>
