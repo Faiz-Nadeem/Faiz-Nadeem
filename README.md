@@ -50,7 +50,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="https://spline.design/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.bing.com/images/search?view=detailV2&ccid=qvptQEQC&id=B190F57C0412A5B67A825C1C21051B575FE44940&thid=OIP.qvptQEQCaUmQ3plQnQg1KAHaEL&mediaurl=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2F67da97237cb7a3ab0bc979e51cd0ac959a3a3595.png%3F1610555828&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.aafa6d404402694990de99509d083528%3Frik%3DQEnkX1cbBSEcXA%26pid%3DImgRaw%26r%3D0&exph=282&expw=500&q=spline+logo&simid=608002288589932033&FORM=IRPRST&ck=CDEDFCB637C17D78DDEA02F1C86232A1&selectedIndex=0&itb=1&cw=1778&ch=887&ajaxhist=0&ajaxserp=0" target="_blank" rel="noreferrer"> 
     <img src="URL_OF_YOUR_UPLOADED_SPLINE_LOGO" alt="spline" width="40" height="40"/> 
   </a>
 </p>
