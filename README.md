@@ -2,9 +2,7 @@
 <h3 align="center">Graphic Sorcerer</h3>
 
 
-- 🔭 I’m currently working on **Data Science**
-
-- 🌱 I’m currently learning **Deep learning**
+- 🔭 I’m currently working on **Computer-Vision**
 
 - 📫 How to reach me **engrfaiznadeem@gmail.com**
 
