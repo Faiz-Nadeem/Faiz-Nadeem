@@ -16,11 +16,6 @@
 </p>
 
 
-## Codewars Badge
-![Codewars](https://www.codewars.com/users/Faiz-Nadeem/badges/large)
-
-I love solving coding challenges on Codewars!
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
