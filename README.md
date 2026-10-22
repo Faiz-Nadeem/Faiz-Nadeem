@@ -83,7 +83,7 @@ Ensemble regression with Pearson correlation-based feature selection for predict
 
 
 
-## ⚙️ 04 / TECHNICAL SKILLS
+## 04 / TECHNICAL SKILLS
 
 <div align="center">
 
