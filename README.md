@@ -1,43 +1,61 @@
-<h1 align="center">Hi 👋, I'm Faiz Nadeem</h1>
-<!-- <h3 align="center"></h3> -->
 
+<div align="center">
 
-- 🔭 I’m currently working on **Computer-Vision in Medical Imaging**
+# FAIZ NADEEM
 
-- 📫 How to reach me **engrfaiznadeem@gmail.com**
+### AI Researcher | Deep Learning | Explainable AI
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/faiz-nadeem-337a5b1b7/](https://www.linkedin.com/in/faiz-nadeem-337a5b1b7/)
+**Exploring intelligence, one spike at a time.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faiz-nadeem-337a5b1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faiz-nadeem-337a5b1b7/" height="30" width="40" /></a>
-<a href="https://www.behance.net/faiz-nadeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="faiz-nadeem" height="30" width="40" /></a>
-<a href="https://medium.com/@engrfaiznadeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="faiz-nadeem" height="30" width="40" /></a>
-</p>
+`Spiking Neural Networks` • `Neuromorphic Computing` • `Computer Vision`
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <!-- Added icons -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
-  </a>
-    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="import { Colab } from '@lobehub/icons'; export default () => <Colab.Combine size={56} type={'color'}/>;" alt="figma" width="40" height="40"/> 
-  </a>
+</div>
 
-</p>
+### 01 / ABOUT ME
 
+I'm a Master's researcher at **Mehran University of Engineering & Technology (MUET)**, Pakistan.
 
+My research focuses on understanding how intelligent systems learn, process temporal information, and make interpretable decisions.
+
+### 02 / CURRENT RESEARCH
+
+**Explainability of Spike Decisions in Spiking Neural Networks**
+
+Master's Thesis — Ongoing
+
+- Spiking Neural Networks and LIF neurons
+- Temporal spike encoding
+- Gradient-based attribution methods
+- Explainable medical image classification
+
+### 03 / RESEARCH PROJECTS
+
+**Deepfake Audio and Face-Image Detection**
+
+CNN and LSTM-based deepfake detection framework.
+
+**Ensemble Regression for Student Performance Prediction**
+
+Published research in IEEE Xplore.
+
+### 04 / TECHNICAL STACK
+
+![Python](https://img.shields.io/badge/Python-202033?style=flat-square&logo=python&logoColor=C4B5FD)
+![PyTorch](https://img.shields.io/badge/PyTorch-202033?style=flat-square&logo=pytorch&logoColor=C4B5FD)
+![Git](https://img.shields.io/badge/Git-202033?style=flat-square&logo=git&logoColor=C4B5FD)
+
+### 05 / RESEARCH INTERESTS
+
+Spiking Neural Networks • Explainable AI •
+Deep Learning • Medical Image Analysis •
+Multimodal Learning
+
+---
+
+<div align="center">
+
+**Building intelligent systems that are interpretable and trustworthy.**
+
+</div>
