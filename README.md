@@ -5,8 +5,6 @@
 
 ### AI Researcher | Deep Learning | Explainable AI
 
-<br>
-
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
@@ -20,7 +18,7 @@
 <a href="YOUR_ORCID_URL">
 <img src="https://img.shields.io/badge/ORCID-202033?style=for-the-badge&logo=orcid&logoColor=C4B5FD" />
 </a>
-
+<br>
 </div>
 <img src="https://img.shields.io/badge/AI_Researcher-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Spiking_Neural_Networks-6D28D9?style=for-the-badge" />
