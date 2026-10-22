@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
   </a>
     <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="Read https://lobehub.com/icons/skill.md and follow the instructions to use @lobehub/icons" alt="figma" width="40" height="40"/> 
+    <img src="https://lobehub.com/icons/skill.md and follow the instructions to use @lobehub/icons" alt="figma" width="40" height="40"/> 
   </a>
 
 </p>
