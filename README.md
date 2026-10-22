@@ -168,12 +168,9 @@ Mehran University of Engineering & Technology
 
 ---
 
-## 09 / GITHUB STATISTICS
+
 
 <div align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=Faiz-Nadeem&show_icons=true&theme=tokyonight&hide_border=true&title_color=C4B5FD&icon_color=8B5CF6" />
 
 <img height="165"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz-Nadeem&layout=compact&theme=tokyonight&hide_border=true&title_color=C4B5FD" />
@@ -182,8 +179,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz-Nadeem&
 
 
 ---
-
-## 10 / CONNECT WITH ME
 
 <div align="center">
 
