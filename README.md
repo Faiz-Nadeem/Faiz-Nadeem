@@ -74,7 +74,7 @@ Detection of manipulated facial images and audio using CNN and LSTM architecture
 <tr>
 <td colspan="2">
 
-### 📊 Student Performance Prediction
+### Student Performance Prediction
 
 **Published Research | IEEE Xplore**
 
@@ -172,11 +172,14 @@ Mehran University of Engineering & Technology
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=C4B5FD&icon_color=8B5CF6" />
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=Faiz-Nadeem&show_icons=true&theme=tokyonight&hide_border=true&title_color=C4B5FD&icon_color=8B5CF6" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=C4B5FD" />
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz-Nadeem&layout=compact&theme=tokyonight&hide_border=true&title_color=C4B5FD" />
 
 </div>
+
 
 ---
 
