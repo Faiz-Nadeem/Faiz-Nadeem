@@ -1,33 +1,14 @@
+<img width="1200" height="350" alt="banner" src="https://github.com/user-attachments/assets/c3159307-13b5-4680-8358-687ea219606e" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Faiz Nadeem AI researcher profile banner">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101625"/><stop offset="1" stop-color="#171329"/></linearGradient><linearGradient id="name" x2="1"><stop stop-color="#8ad6ff"/><stop offset="0.55" stop-color="#a99cff"/><stop offset="1" stop-color="#d9a7ff"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7771a0" stroke-opacity=".1"/></pattern></defs>
+<rect width="1200" height="350" rx="20" fill="url(#bg)"/><rect width="1200" height="350" rx="20" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="348" rx="19" fill="none" stroke="#474169"/>
 
-<div align="center">
 
-# FAIZ NADEEM
+</svg>
 
-### AI Researcher | Deep Learning | Explainable AI
 
-<div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-202033?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" />
-</a>
 
-<a href="YOUR_GOOGLE_SCHOLAR_URL">
-<img src="https://img.shields.io/badge/Google_Scholar-202033?style=for-the-badge&logo=googlescholar&logoColor=C4B5FD" />
-</a>
-
-<a href="YOUR_ORCID_URL">
-<img src="https://img.shields.io/badge/ORCID-202033?style=for-the-badge&logo=orcid&logoColor=C4B5FD" />
-</a>
-<br>
-</div>
-<img src="https://img.shields.io/badge/AI_Researcher-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Spiking_Neural_Networks-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Explainable_AI-A78BFA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IEEE-Published_Research-202033?style=for-the-badge&logo=ieee&logoColor=C4B5FD" />
-
-</div>
-
----
 
 ## 01 / ABOUT ME
 
@@ -48,8 +29,6 @@ Investigating the interpretability of spike-based decisions in Spiking Neural Ne
 **Research Focus:**
 
 - Spiking Neural Networks and LIF neurons
-- Temporal spike encoding
-- Gradient-based attribution methods
 - Explainable medical image classification
 - SNN-Grad and SNN Integrated Gradients
 
@@ -101,32 +80,41 @@ Ensemble regression with Pearson correlation-based feature selection for predict
 
 ---
 
-## 04 / TECHNICAL SKILLS
 
-### AI & Development
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/Python-202033?style=for-the-badge&logo=python&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/PyTorch-202033?style=for-the-badge&logo=pytorch&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/snnTorch-202033?style=for-the-badge&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/Git-202033?style=for-the-badge&logo=git&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/GitHub-202033?style=for-the-badge&logo=github&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/Google_Colab-202033?style=for-the-badge&logo=googlecolab&logoColor=C4B5FD" />
-
-</div>
-
-### Design & Creative Tools
+## ⚙️ 04 / TECHNICAL SKILLS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Figma-202033?style=for-the-badge&logo=figma&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/Canva-202033?style=for-the-badge&logo=canva&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/Adobe_Illustrator-202033?style=for-the-badge&logo=adobeillustrator&logoColor=C4B5FD" />
+**AI · DEVELOPMENT · RESEARCH**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode,linux&theme=dark&perline=7" />
+
+<br><br>
+
+**RESEARCH ENVIRONMENT**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=anaconda,opencv,sklearn&theme=dark&perline=3" />
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab" />
+
+<br><br>
+
+**DESIGN · CREATIVE TOOLS**
+
+<br>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,ai&theme=dark" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
 
 </div>
-
----
+</div>
 
 ## 05 / PUBLICATIONS
 
@@ -171,7 +159,7 @@ Mehran University of Engineering & Technology
 ## 08 / RESEARCH INTERESTS
 
 <div align="center">
-
+<img src="https://img.shields.io/badge/Computer_Vision-6D28D9?style=flat-square" />
 <img src="https://img.shields.io/badge/Explainable_AI-6D28D9?style=flat-square" />
 <img src="https://img.shields.io/badge/Neuromorphic_Computing-8B5CF6?style=flat-square" />
 <img src="https://img.shields.io/badge/Medical_Image_Analysis-6D28D9?style=flat-square" />
@@ -180,15 +168,6 @@ Mehran University of Engineering & Technology
 </div>
 
 ---
-
-
-
-<div align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz-Nadeem&layout=compact&theme=tokyonight&hide_border=true&title_color=C4B5FD" />
-
-</div>
 
 
 </div>
