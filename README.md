@@ -1,13 +1,16 @@
 
 <div align="center">
 
-<h1>FAIZ NADEEM</h1>
+# FAIZ NADEEM
 
-<h3>AI Researcher | Deep Learning | Explainable AI</h3>
+### AI Researcher | Deep Learning | Explainable AI
 
-<img src="https://img.shields.io/badge/Spiking_Neural_Networks-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Neuromorphic_Computing-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Vision-A78BFA?style=for-the-badge" />
+<br><br>
+
+<img src="https://img.shields.io/badge/AI_Researcher-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spiking_Neural_Networks-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Explainable_AI-A78BFA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IEEE-Published_Research-202033?style=for-the-badge&logo=ieee&logoColor=C4B5FD" />
 
 </div>
 
@@ -15,9 +18,7 @@
 
 ## 01 / ABOUT ME
 
-I'm a **Master's researcher** at **Mehran University of Engineering & Technology (MUET), Pakistan**, working on brain-inspired computing, Explainable AI, and Deep Learning.
-
-My research focuses on understanding how intelligent systems process information, make predictions, and how their decisions can be interpreted.
+I'm a **Master's researcher** at **Mehran University of Engineering & Technology (MUET), Pakistan**, working on brain-inspired computing, Explainable AI, and Deep Learning. My research focuses on understanding how intelligent systems process information, make predictions, and how their decisions can be interpreted.
 
 Beyond AI research, I have professional experience in **Graphic Design**, combining technical knowledge with creativity and visual communication.
 
@@ -37,6 +38,7 @@ Investigating the interpretability of spike-based decisions in Spiking Neural Ne
 - Temporal spike encoding
 - Gradient-based attribution methods
 - Explainable medical image classification
+- SNN-Grad and SNN Integrated Gradients
 
 **Frameworks:** PyTorch · snnTorch
 
@@ -72,7 +74,7 @@ Detection of manipulated facial images and audio using CNN and LSTM architecture
 <tr>
 <td colspan="2">
 
-### Student Performance Prediction
+### 📊 Student Performance Prediction
 
 **Published Research | IEEE Xplore**
 
@@ -153,7 +155,7 @@ Mehran University of Engineering & Technology
 
 ---
 
-## 🌱 08 / RESEARCH INTERESTS
+## 08 / RESEARCH INTERESTS
 
 <div align="center">
 
@@ -161,6 +163,38 @@ Mehran University of Engineering & Technology
 <img src="https://img.shields.io/badge/Neuromorphic_Computing-8B5CF6?style=flat-square" />
 <img src="https://img.shields.io/badge/Medical_Image_Analysis-6D28D9?style=flat-square" />
 <img src="https://img.shields.io/badge/Multimodal_Learning-8B5CF6?style=flat-square" />
+
+</div>
+
+---
+
+## 09 / GITHUB STATISTICS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=C4B5FD&icon_color=8B5CF6" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=C4B5FD" />
+
+</div>
+
+---
+
+## 10 / CONNECT WITH ME
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-202033?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" />
+</a>
+
+<a href="YOUR_GOOGLE_SCHOLAR_URL">
+<img src="https://img.shields.io/badge/Google_Scholar-202033?style=for-the-badge&logo=googlescholar&logoColor=C4B5FD" />
+</a>
+
+<a href="YOUR_ORCID_URL">
+<img src="https://img.shields.io/badge/ORCID-202033?style=for-the-badge&logo=orcid&logoColor=C4B5FD" />
+</a>
 
 </div>
 
