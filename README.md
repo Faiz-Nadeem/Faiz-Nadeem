@@ -5,8 +5,23 @@
 
 ### AI Researcher | Deep Learning | Explainable AI
 
-<br><br>
+<br>
 
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-202033?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" />
+</a>
+
+<a href="YOUR_GOOGLE_SCHOLAR_URL">
+<img src="https://img.shields.io/badge/Google_Scholar-202033?style=for-the-badge&logo=googlescholar&logoColor=C4B5FD" />
+</a>
+
+<a href="YOUR_ORCID_URL">
+<img src="https://img.shields.io/badge/ORCID-202033?style=for-the-badge&logo=orcid&logoColor=C4B5FD" />
+</a>
+
+</div>
 <img src="https://img.shields.io/badge/AI_Researcher-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Spiking_Neural_Networks-6D28D9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Explainable_AI-A78BFA?style=for-the-badge" />
@@ -174,25 +189,6 @@ Mehran University of Engineering & Technology
 
 <img height="165"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz-Nadeem&layout=compact&theme=tokyonight&hide_border=true&title_color=C4B5FD" />
-
-</div>
-
-
----
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-202033?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" />
-</a>
-
-<a href="YOUR_GOOGLE_SCHOLAR_URL">
-<img src="https://img.shields.io/badge/Google_Scholar-202033?style=for-the-badge&logo=googlescholar&logoColor=C4B5FD" />
-</a>
-
-<a href="YOUR_ORCID_URL">
-<img src="https://img.shields.io/badge/ORCID-202033?style=for-the-badge&logo=orcid&logoColor=C4B5FD" />
-</a>
 
 </div>
 
