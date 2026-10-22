@@ -15,9 +15,11 @@
 
 ## 01 / ABOUT ME
 
-I'm a **Master's researcher** at **Mehran University of Engineering & Technology (MUET), Pakistan**, working on brain-inspired computing, Explainable AI, and deep learning.
+I'm a **Master's researcher** at **Mehran University of Engineering & Technology (MUET), Pakistan**, working on brain-inspired computing, Explainable AI, and Deep Learning.
 
 My research focuses on understanding how intelligent systems process information, make predictions, and how their decisions can be interpreted.
+
+Beyond AI research, I have professional experience in **Graphic Design**, combining technical knowledge with creativity and visual communication.
 
 ---
 
@@ -29,7 +31,7 @@ My research focuses on understanding how intelligent systems process information
 
 Investigating the interpretability of spike-based decisions in Spiking Neural Networks for medical image classification.
 
-**Research Focus**
+**Research Focus:**
 
 - Spiking Neural Networks and LIF neurons
 - Temporal spike encoding
@@ -86,13 +88,26 @@ Ensemble regression with Pearson correlation-based feature selection for predict
 
 ## 04 / TECHNICAL SKILLS
 
+### AI & Development
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-202033?style=for-the-badge&logo=python&logoColor=C4B5FD" />
 <img src="https://img.shields.io/badge/PyTorch-202033?style=for-the-badge&logo=pytorch&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/snnTorch-202033?style=for-the-badge&logoColor=C4B5FD" />
 <img src="https://img.shields.io/badge/Git-202033?style=for-the-badge&logo=git&logoColor=C4B5FD" />
 <img src="https://img.shields.io/badge/GitHub-202033?style=for-the-badge&logo=github&logoColor=C4B5FD" />
 <img src="https://img.shields.io/badge/Google_Colab-202033?style=for-the-badge&logo=googlecolab&logoColor=C4B5FD" />
+
+</div>
+
+### Design & Creative Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Figma-202033?style=for-the-badge&logo=figma&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Canva-202033?style=for-the-badge&logo=canva&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Adobe_Illustrator-202033?style=for-the-badge&logo=adobeillustrator&logoColor=C4B5FD" />
 
 </div>
 
@@ -102,7 +117,9 @@ Ensemble regression with Pearson correlation-based feature selection for predict
 
 **Ensemble Regression Approach to Predict Students' Performance Using Pearson Correlation Feature Selection**
 
-*IEEE Xplore*
+*Published in IEEE Xplore*
+
+**Research Areas:** Machine Learning · Predictive Modeling · Feature Selection
 
 ---
 
@@ -118,15 +135,34 @@ Mehran University of Engineering & Technology
 
 ---
 
-<div align="center">
+## 07 / PROFESSIONAL EXPERIENCE
 
-### Research Interests
+### Research Assistant
+**Department of Computer Science | MUET**
 
-**Spiking Neural Networks • Explainable AI •
-Neuromorphic Computing • Computer Vision**
+- Supported academic research and undergraduate projects.
+- Assisted in laboratory sessions and technical instruction.
+- Guided students in programming and software engineering.
+
+### Graphic Designer
+**TheTrustTech | Canada**
+
+- Worked on graphic design and visual communication projects.
+- Applied creative design principles to digital content.
+- Used Figma, Canva, and Adobe Illustrator.
 
 ---
 
-<i>Building intelligent systems that are interpretable and trustworthy.</i>
+## 🌱 08 / RESEARCH INTERESTS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Explainable_AI-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Neuromorphic_Computing-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Medical_Image_Analysis-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Multimodal_Learning-8B5CF6?style=flat-square" />
+
+</div>
+
 
 </div>
